@@ -1,7 +1,7 @@
 # app.py
 
 a = 8
-b = 2
+b = 1
 
 def add(x, y):
     return x + y
@@ -9,3 +9,4 @@ def add(x, y):
 result = add(a, b)
 
 print("Result is:", result)
+
